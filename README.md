@@ -2,7 +2,7 @@
   Game List V1 (Frontend)
   <br> 
 </h1>
-<h4 align="center">Game List is a social game-tracking app that allows users to easily search, filter, and track their video game collections, enabling them to share their gaming status and interact with others through comments, likes, and following. The V1 backend can be accessed <a href="https://github.com/Yzma/game_list">here.</a></h4>
+<h4 align="center">Game List is a social game-tracking app that allows users to easily search, filter, and track their video game collections, enabling them to share their gaming status and interact with others through comments, likes, and following. The V1 backend can be accessed <a href="https://github.com/Yzma/game-list-backend-v1">here.</a></h4>
 <br>
 
 <p align="center">
@@ -46,13 +46,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 1. Clone the repository
 
 ```sh
-git clone https://github.com/Yzma/game_list_client.git
+git clone https://github.com/Yzma/game-list-frontend-v1.git
 ```
 
 2. Move to the correct directory
 
 ```sh
-cd game_list_client
+cd game-list-frontend-v1
 ```
 
 3. Install dependencies
@@ -73,7 +73,7 @@ VITE_PASSWORD_TEST="password"
 
 5. Run the application
 
-Note: Make sure the [backend](https://github.com/Yzma/game_list) is running first before starting the client!
+Note: Make sure the [backend](https://github.com/Yzma/game-list-backend-v1) is running first before starting the client!
 
 ```sh
 npm start
