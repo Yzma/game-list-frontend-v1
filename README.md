@@ -31,12 +31,25 @@
 
 ## Media
 
+### Index page and infinite scrolling
 ![Infinite Scrolling](/Media/Infinite%20Scrolling.gif)
+
+### Add game to list
 ![Add game to list](/Media/Add%20game%20to%20list.gif)
+
+### Using normal filters
 ![Using normal filters](/Media/Using%20normal%20filters.gif)
+
+### Using exclusion/inclusion game filters
 ![Using exclusion filters](/Media/Using%20exclusion%20filters.gif)
+
+### Profile Page
 ![Profile page](/Media/Profile%20page.gif)
+
+### Game list profile page
 ![Game list profile page](/Media/Game%20list%20profile%20page.gif)
+
+### Social Forum
 ![Forum page](/Media/Forum%20page.gif)
 
 ## Getting Started
